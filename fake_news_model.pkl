@@ -1,0 +1,1 @@
+pickle.dump(model, open("fake_news_model.pkl", "wb"))
